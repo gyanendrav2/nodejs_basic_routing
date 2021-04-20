@@ -1,0 +1,17 @@
+.product {
+  background-color: green;
+  height: 100vh;
+}
+.product h1 {
+  text-align: center;
+}
+
+.notfound {
+  background-color: red;
+  height: 100vh;
+  text-align: center;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
